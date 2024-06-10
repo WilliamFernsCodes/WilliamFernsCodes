@@ -28,8 +28,8 @@ Here are the technologies I am proficient at:
 Feel free to contact me through one of the following channels:
 <div>
   <a href="mailto: business@williamferns.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank"href="https://www.linkedin.com/in/william-ferns-12670a2b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/willfernsdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/william-ferns-12670a2b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank"href="https://twitter.com/willfernsdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 ### Software Development Services
