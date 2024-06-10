@@ -1,7 +1,5 @@
 # Hello, I'm William Ferns!
-
-🚀 Full Stack Web Developer | Tech Enthusiast | Open-Source Contributor
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Full Stack Web Developer | Tech Enthusiast | Open-Source Contributor
 
 ### What am I working on?
 - CEO of Automa Automations (SaaS to Automate Content Creation using AI) - <a href="https://github.com/Automa-Automations/" target="_blank">Automa Automations</a>
@@ -9,6 +7,7 @@
 - FreeCodeCamp Curriculum - <a href="https://freecodecamp.org/williamferns" target="_blank">freeCodeCamp Profile</a>
 - Youtuber/Content Creator - <a href="https://youtube.com/@WilliamFernsV2" target="_blank">My Youtube Channel</a>
 - Side Projects - <a href="https://williamferns.org" target="_blank">Personal Portfolio</a>
+
 ### Technologies
 Here are the technologies I am proficient at:
 
