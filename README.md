@@ -2,7 +2,7 @@
 Full Stack Web Developer | Tech Enthusiast | Open-Source Contributor
 
 ### What am I working on?
-- CEO of Automa Automations (SaaS to Automate Content Creation using AI) - <a href="https://github.com/Automa-Automations/" target="_blank">Automa Automations</a>
+- Co-Founder of Automa Automations (SaaS to Automate Content Creation using AI) - <a href="https://github.com/Automa-Automations/" target="_blank">Automa Automations</a>
 - Freelance Developer @Replit - <a href="https://replit.com/@WilliamFerns1" target="_blank">My Freelancing Profile</a>
 - FreeCodeCamp Curriculum - <a href="https://freecodecamp.org/williamferns" target="_blank">freeCodeCamp Profile</a>
 - Youtuber/Content Creator - <a href="https://youtube.com/@WilliamFernsV2" target="_blank">My Youtube Channel</a>
